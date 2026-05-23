@@ -1,0 +1,6 @@
+{
+  "appId": "com.eiapetroleumdashboard.app",
+  "appName": "EIA Petroleum Dashboard",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

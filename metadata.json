@@ -1,0 +1,8 @@
+{
+  "name": "EIA Data Analyst",
+  "description": "An installable mobile PWA dashboard for parsing and rendering EIA Weekly Petroleum Status reports with offline support, trend charts, and Excel reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

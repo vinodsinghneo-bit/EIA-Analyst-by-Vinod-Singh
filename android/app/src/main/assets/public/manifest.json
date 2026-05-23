@@ -1,0 +1,28 @@
+{
+  "name": "EIA Petroleum Dashboard",
+  "short_name": "EIA Petroleum",
+  "description": "Installable mobile dashboard for EIA Weekly Petroleum Status reports, displaying stocks, refineries, production, prices, and interactive trends with PWA offline Support.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08101d",
+  "theme_color": "#08101d",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
