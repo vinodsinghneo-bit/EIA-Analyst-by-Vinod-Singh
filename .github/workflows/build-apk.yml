@@ -22,5 +22,10 @@ jobs:
         with:
           node-version: '20'
       - uses: android-actions/setup-android@v3
+      - name: Upload APK
+  uses: actions/upload-artifact@v4
+  with:
+    name: my-android-apk
+    path: app/build/outputs/apk/release/app-release.apk # Update this path to match where your framework builds the APK
 
       # ...the rest of your steps...
